@@ -264,6 +264,6 @@ This project is licensed under the **MIT License**.
 
 ## 🌦️ Empowering Climate Intelligence Through AI
 
-### Built with ❤️ by **Bhimanna Sagar**
+### Built by ❤️ by **Bhimanna Sagar**
 
 </div>
